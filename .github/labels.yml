@@ -81,7 +81,7 @@
   color: "FF7F77"
   description: ""
 - name: "size/xxl"
-  color: "#D7EDD5"
+  color: "D7EDD5"
   description: ""
 - name: "size/xl"
   color: "A674D6"
