@@ -2,8 +2,6 @@ version: 1
 
 # The number of changed lines is calculated as the sum of all additions + deletions in the PR.
 labels:
-  - label: "do-not-merge/wip"
-    mergeable: false
   - label: "size/s"
     size-below: 10
   - label: "siz/m"
